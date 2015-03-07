@@ -1,0 +1,22 @@
+{
+  "name": "level-dna",
+  "version": "1.0.0",
+  "description": "Import genome data into a levelup instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/level-dna.git"
+  },
+  "keywords": [
+    "genome"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/level-dna/issues"
+  },
+  "homepage": "https://github.com/finnp/level-dna"
+}
