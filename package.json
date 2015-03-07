@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/finnp/level-dna/issues"
   },
-  "homepage": "https://github.com/finnp/level-dna"
+  "homepage": "https://github.com/finnp/level-dna",
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
 }
